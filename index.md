@@ -7,7 +7,10 @@
 ---
 ## Professional Experience
 
-### Robotics Developer @ [IHS Systems](https://www.ihs.systems) _(2019 - )_
+### Senior C++ Developer @ [Loftware](https://www.loftware.com/) _(2022 - )_
+- Developing Microsoft Windows drivers for industrial labeling printers.
+
+### Robotics Developer @ [IHS Systems](https://www.ihs.systems) _(2019 - 2022)_
 
 _Independently developing [ROS](https://www.ros.org/) based heavy load AMR (Autonomous Mobile Robot) from scratch._
 - Part of a small team that brought AMR from idea to production. 
