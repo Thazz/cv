@@ -58,11 +58,3 @@ _Not only developing software, but also making sure it runs. Looking on develope
 <dt>Thesis</dt>
 <dd>Validation of Numerical Methods in OpenFOAM for Airflow Over High Lift Systems</dd>
 </dl>
-
-
----
-## Languages
-
-| English | ![English](https://progress-bar.dev/85) |
-| German  | ![German](https://progress-bar.dev/60) |
-| French  | ![French](https://progress-bar.dev/25) |
